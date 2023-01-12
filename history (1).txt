@@ -1,0 +1,9 @@
+   0 nano zari.txt 
+   1 ls
+   2 cat /etc/group 
+   3 cat/etc/group | tail -5
+   4 cat /etc/group | tail -5
+   5 cat /etc/group | tail -5 >> zari.txt 
+   6 vi zari.txt 
+   7 ls 
+   8 history > history.txt 
